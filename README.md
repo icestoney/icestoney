@@ -1,1 +1,1 @@
-[Student of School 21](https://21-school.ru/)
+[Student of School 21. My nickname: shericen](https://21-school.ru/)
