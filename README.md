@@ -5,6 +5,7 @@
 My name is Nikita.
 I'm a student of [School 21](https://21-school.ru/). My nickname on platform: shericen.
 
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/icestoney)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icestoney&layout=compact)
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/icestoney)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:icestonebeats@gmail.com)
