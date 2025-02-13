@@ -4,3 +4,5 @@
 
 My name is Nikita.
 I'm a student of [School 21](https://21-school.ru/). My nickname on platform: shericen.
+
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/icestoney)
