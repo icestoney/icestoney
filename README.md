@@ -7,5 +7,8 @@ I'm a student of [School 21](https://21-school.ru/). My nickname on platform: sh
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icestoney&layout=compact)
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,bash,linux,ubuntu,qt,docker,postgres&theme=light&perline=3)](https://skillicons.dev)
+
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/icestoney)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:icestonebeats@gmail.com)
