@@ -1,5 +1,5 @@
 # About me
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/icestoney/icestoney/edit/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/icestoney/icestoney/blob/main/README.md)
 [![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/icestoney/icestoney/blob/main/README.ru.md)
 
 My name is Nikita.
