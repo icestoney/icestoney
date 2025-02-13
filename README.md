@@ -4,6 +4,7 @@
 
 My name is Nikita.
 I'm a student of [School 21](https://21-school.ru/). My nickname on platform: shericen.
+Currently, I am learning the C++ language.
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
