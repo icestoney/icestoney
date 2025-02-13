@@ -1,4 +1,5 @@
 # Обо мне
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/icestoney/icestoney/blob/main/README.ru.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/icestoney/icestoney/blob/main/README.md)
 
 Меня зовут Никита.
